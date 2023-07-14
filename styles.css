@@ -1,0 +1,50 @@
+main{
+  display: block;
+}
+main{
+  margin: 20px 4px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #DDD0C8;
+}
+
+body{
+  text-align: center;
+  font-family: sans-serif, Roboto;
+  line-height: 1.5;
+}
+#img-caption{
+  margin: 15px 0 5px 0;
+  display: block;
+}
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  
+}
+#img-div{
+  display: block;
+  background: white;
+  margin: 0;
+  padding: 10px;
+
+}
+ul{
+  line-height: 1.6;
+  list-style-type: disc;
+}
+li{
+  margin: 15px 0;
+}
+li{
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+ul{
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
